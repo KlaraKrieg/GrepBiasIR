@@ -1,4 +1,4 @@
-# GrepIR in CSV
+# GrepBiasIR in CSV
 Here you find the dataset adapted for automatic processing.
 The formatted version is comprised of eight .csv files: one with all queries and seven with respective documents corresponding to the seven query categories.
 
