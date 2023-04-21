@@ -35,7 +35,7 @@ The dataset consists of the *queries.csv* file comprising all queries, and seven
 * `exp_stereotype` - expected stereotype annotation
 
 ## *Show me a "Male Nurse"!* dataset
-Using `GrepBiasIR`, Kopeinik et al. (citation below) conduct a user study to observe and measure the potential biases of the search engines' users, when formulating queries on gender-sensitive topics. The dataset consisting of these formulated queries is provided in the `query-generation-user-study` folder.
+Using `GrepBiasIR`, Kopeinik et al. (citation below) conduct a user study to observe and measure the potential biases of the search engines' users, when formulating queries on gender-sensitive topics. The dataset consisting of these formulated queries is available here: https://github.com/CPJKU/user-interaction-gender-bias-IR
 
 ```
 @inproceedings{Kopeinik2023Show,
